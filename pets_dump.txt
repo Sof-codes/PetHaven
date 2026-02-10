@@ -1,0 +1,106 @@
+Total Pets: 26
+
+ID: 1
+Name: Bella
+Image: assets/images/pet_bella.jpg
+-----------------------------------
+ID: 2
+Name: Oliver
+Image: assets/images/pet_oliver.jpg
+-----------------------------------
+ID: 3
+Name: Charlie
+Image: assets/images/pet_charlie_unique.jpg
+-----------------------------------
+ID: 4
+Name: Luna
+Image: assets/images/pet_luna.jpg
+-----------------------------------
+ID: 5
+Name: Max
+Image: assets/images/pet_max.jpg
+-----------------------------------
+ID: 6
+Name: Milo
+Image: assets/images/pet_milo.jpg
+-----------------------------------
+ID: 7
+Name: Daisy
+Image: assets/images/pet_daisy.jpg
+-----------------------------------
+ID: 8
+Name: Rio
+Image: assets/images/pet_rio.jpg
+-----------------------------------
+ID: 9
+Name: Teddy
+Image: assets/images/pet_teddy.jpg
+-----------------------------------
+ID: 10
+Name: Oreo
+Image: assets/images/pet_oreo.jpg
+-----------------------------------
+ID: 11
+Name: Thumper
+Image: assets/images/pet_thumper_unique.jpg
+-----------------------------------
+ID: 12
+Name: Snowball
+Image: assets/images/pet_snowball.jpg
+-----------------------------------
+ID: 13
+Name: Tweety
+Image: assets/images/pet_tweety.jpg
+-----------------------------------
+ID: 14
+Name: Blue
+Image: assets/images/pet_blue.jpg
+-----------------------------------
+ID: 15
+Name: Simba
+Image: assets/images/pet_simba.jpg
+-----------------------------------
+ID: 16
+Name: Luna Cat
+Image: assets/images/pet_luna_cat_unique.jpg
+-----------------------------------
+ID: 17
+Name: Buster
+Image: assets/images/pet_buster_unique.jpg
+-----------------------------------
+ID: 18
+Name: Whiskers
+Image: assets/images/pet_whiskers_unique.jpg
+-----------------------------------
+ID: 19
+Name: BunBun
+Image: assets/images/pet_bunbun_unique.jpg
+-----------------------------------
+ID: 20
+Name: Cinnamon
+Image: assets/images/pet_cinnamon_unique.jpg
+-----------------------------------
+ID: 21
+Name: Peter
+Image: assets/images/pet_peter_unique.jpg
+-----------------------------------
+ID: 22
+Name: Kiwi
+Image: assets/images/pet_kiwi_unique.jpg
+-----------------------------------
+ID: 23
+Name: Charlie Bird
+Image: assets/images/pet_charlie_bird.jpg
+-----------------------------------
+ID: 24
+Name: Polly
+Image: assets/images/pet_polly.jpg
+-----------------------------------
+ID: 25
+Name: Nibbles
+Image: assets/images/pet_nibbles.jpg
+-----------------------------------
+ID: 26
+Name: Peanut
+Image: assets/images/pet_peanut_unique.jpg
+-----------------------------------
